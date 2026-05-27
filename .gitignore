@@ -1,0 +1,30 @@
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+.backup/
+
+# Formatos não comprimidos (opcional - comente se quiser manter)
+# *.psd
+# *.ai
+# *.sketch
+
+# Logs
+*.log
+
+# Dependências (se usar npm)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos de build
+dist/
+build/
